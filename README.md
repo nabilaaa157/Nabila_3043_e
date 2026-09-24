@@ -11,6 +11,8 @@ Terdapat beberapa fitur, yaitu:
 
 ## Screenshot
 
-![Screenshot 461](Screenshot%20%28461%29.png)
+<img width="1913" height="842" alt="image" src="https://github.com/user-attachments/assets/08884041-96ae-4455-8d4e-9cfcefe69f08" />
 
-![Screenshot 462](Screenshot%20%28462%29.png)
+
+<img width="1903" height="906" alt="image" src="https://github.com/user-attachments/assets/471bfc92-da76-4d42-9273-40428fd210c8" />
+
